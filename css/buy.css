@@ -16,7 +16,7 @@ ul li{
 
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #000;
     padding: 5px 20px;
     border: 1px solid transparent;
     transition: 0.6s ease;
@@ -33,6 +33,7 @@ ul li.active a{
 }
 .top{
     max-width: 1800px;
+    color: #000;
     margin: auto;
 }
 .info{
@@ -55,9 +56,16 @@ ul li.active a{
     text-align: center;
 }
 #left{
-	float:right;
+    float:right;
+    color: #000;
 }
 
 .photos{
-	width: 500px;
+    width: 1800px;
+    height: 900px;
+
+}
+
+.black{
+    color: blue;
 }
